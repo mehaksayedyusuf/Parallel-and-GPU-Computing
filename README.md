@@ -1,8 +1,8 @@
 # Comparative Analysis of Sequential, OpenMP, MPI, and CUDA
 
 > 📚 **Laboratory Curriculum Portfolio**:
-> - **Experiment 1**: [Comparative Analysis of Matrix Multiplication (Sequential, OpenMP, MPI, CUDA)](#1-summary) *(Detailed Below)*
-> - **Experiment 2**: [Shared-Memory Parallelism & Synchronization (Pthreads & OpenMP)](./exp2/README.md) *(New Experiment)*
+> - **Experiment 1**: [Comparative Analysis of Matrix Multiplication (Sequential, OpenMP, MPI, CUDA)](#1-summary) 
+> - **Experiment 2**: [Shared-Memory Parallelism & Synchronization (Pthreads & OpenMP)](./exp2/README.md) 
 
 ---
 
